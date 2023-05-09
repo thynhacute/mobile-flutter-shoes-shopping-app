@@ -24,6 +24,7 @@ Guest:
 - See shoe list.
 - View shoe details.
 - Search shoe name.
+
 Customer:
 - Register/Login.
 - Log out.
