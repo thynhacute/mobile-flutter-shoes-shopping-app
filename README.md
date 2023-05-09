@@ -89,7 +89,7 @@ Google Play SDK cho phép nhà phát triển truy cập các API của Google Pl
 ## Features
 ## User Guide
 
-**### Guest**
+## Guest
 
 ### View the home page of app.
 
@@ -129,7 +129,7 @@ Step 3: Click on Search button
 ![image](https://github.com/thynhacute/mobile-flutter-shoes-shopping-app/assets/77708167/1b08bdc6-d937-4bfd-ae66-646a8b075bf5)
 
 
-**### Customer**
+## Customer
 ### Register
 
 Step 1: Click on Profile button in Menu
