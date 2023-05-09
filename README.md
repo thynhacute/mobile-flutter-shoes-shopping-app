@@ -54,7 +54,9 @@ Dart SDK version: 2.18.6
 Google Play SDK
 
 ## IMPLEMENTATION
+
 Mobile: 
+
 Requirement: Install Flutter https://docs.flutter.dev/get-started/install, simulator or connect to mobile phone with developer mode.
 
 Step 1: Open terminal and run command git clone https://github.com/thynhacute/mobile-flutter-shoes-shopping-app​
@@ -68,6 +70,7 @@ Step 4: After opening source code, open terminal and run command flutter pub get
 
 ## Why do I use these technologies?
 ### Flutter/ Dart
+
 Flutter là một framework mã nguồn mở, được phát triển bởi Google, cho phép lập trình viên tạo ra ứng dụng di động chạy trên nhiều nền tảng khác nhau (iOS, Android, Web và Desktop) bằng cách sử dụng một ngôn ngữ lập trình duy nhất là Dart.
 
 Đồng nhất trên nhiều nền tảng: Flutter cho phép tụi em phát triển một ứng dụng di động và chạy nó trên cả hai nền tảng iOS và Android, giảm thiểu thời gian phát triển và tối ưu hóa hiệu suất.
